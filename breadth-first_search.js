@@ -1,4 +1,4 @@
-function breathFirst(rootNode) {
+function breadthFirst(rootNode) {
   // Check that a root node exists.
   if (rootNode === null) {
     return;
